@@ -48,41 +48,25 @@ class PiyushPal:
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F5D4)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00F5D4)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F5A623)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=F5A623)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00F5D4)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,postgresql&theme=dark)](https://skillicons.dev)
 
 **AI / ML**
 
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=a855f7)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graph&logoColor=a855f7)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=a855f7)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=a855f7)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0d1117?style=for-the-badge&logo=amazonaws&logoColor=a855f7)
-![Generative AI](https://img.shields.io/badge/Generative_AI-0d1117?style=for-the-badge&logo=openai&logoColor=a855f7)
-![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=a855f7)
-![NLP](https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logoColor=a855f7)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,aws&theme=dark)](https://skillicons.dev)
+
+> LangChain · LangGraph · LLMs (Claude / Gemini / Groq) · RAG · NLP · Generative AI · AWS Bedrock
 
 **Backend & Web**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=F5A623)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=F5A623)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=F5A623)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=F5A623)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=F5A623)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=F5A623)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,nextjs,react,fastapi,flask,express&theme=dark)](https://skillicons.dev)
 
 **Databases & DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=7d8590)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=7d8590)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=7d8590)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=7d8590)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=7d8590)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=7d8590)
-![Keycloak](https://img.shields.io/badge/Keycloak-0d1117?style=for-the-badge&logo=keycloak&logoColor=7d8590)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,rabbitmq,githubactions,prisma&theme=dark)](https://skillicons.dev)
+
+**Tools & Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,tailwind,vscode,idea,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -215,19 +199,6 @@ GenAI-powered analytics simulation for Tata iQ's Financial Services team. Propos
 
 ---
 
-## 📜 Certifications
-
-| Certificate | Issuer | Year |
-|---|---|---|
-| 🥇 GenAI Powered Data Analytics Job Simulation | Tata iQ × Forage | 2026 |
-| 🧠 Complete Data Science, ML, DL & NLP Bootcamp | KRISHAI Technologies | — |
-| ✨ Introduction to Generative AI | Google Cloud / Simplilearn | — |
-| ☕ Full Stack Java Developer: Spring Boot, React | Udemy | — |
-| 🤖 ChatGPT Complete Guide: OpenAI API & ChatGPT 4 | Udemy | — |
-
-<br/>
-
----
 
 ## 🌐 Let's Connect
 
