@@ -1,9 +1,12 @@
 <div align="center">
-# 👋 Hi, I'm Piyush Pal
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=99999&color=00F5D4&center=true&vCenter=true&width=700&height=80&lines=Piyush+Pal" alt="Piyush Pal" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&pause=99999&color=a0aec0&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Full-Stack+Engineer+%7C+Indore%2C+India" alt="Subtitle" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Agents+%F0%9F%A4%96;Architecting+Scalable+Microservices+%E2%9A%99%EF%B8%8F;Exploring+LLMs+%2B+Agentic+AI+Frameworks;MERN+%7C+Spring+Boot+%7C+Next.js+%7C+Python;Open+to+AI%2FML+%26+SWE+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7d8590&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Agents+%F0%9F%A4%96;Architecting+Scalable+Microservices+%E2%9A%99%EF%B8%8F;Exploring+LLMs+%2B+Agentic+AI+Frameworks;MERN+%7C+Spring+Boot+%7C+Next.js+%7C+Python;Open+to+AI%2FML+%26+SWE+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
