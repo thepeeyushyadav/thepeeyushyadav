@@ -1,7 +1,5 @@
 <div align="center">
-
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Piyush%20Pal&fontSize=60&fontColor=00F5D4&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Engineer&descColor=a0aec0&descAlignY=58&animation=fadeIn" width="100%"/>
+# 👋 Hi, I'm Piyush Pal
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -223,7 +221,7 @@ GenAI-powered analytics simulation for Tata iQ's Financial Services team. Propos
 <br/><br/>
 
 <!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" width="100%"/>
+
 
 </div>
 
