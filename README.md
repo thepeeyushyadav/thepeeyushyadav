@@ -54,7 +54,7 @@ class PiyushPal:
 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,aws&theme=dark)](https://skillicons.dev)
 
-> LangChain · LangGraph · LLMs (Claude / Gemini / Groq) · RAG · NLP · Generative AI · AWS Bedrock
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-20232A?style=flat-square&logo=databricks&logoColor=FF3621) ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 
 **Backend & Web**
 
