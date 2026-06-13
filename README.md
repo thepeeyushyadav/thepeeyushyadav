@@ -11,10 +11,14 @@
 
 <br/>
 
-<!-- Profile views + followers badges -->
-<img src="https://komarev.com/ghpvc/?username=thepeeyushyadav&style=for-the-badge&color=0d1117&labelColor=00F5D4&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/thepeeyushyadav?style=for-the-badge&color=0d1117&labelColor=00F5D4&label=FOLLOWERS" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-pal-751067306/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thepeeyushyadav0@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ThinkCodeX)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thethinkcodex)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thepeeyushyadav)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thepeeyushyadav)
+
+<img src="https://komarev.com/ghpvc/?username=thepeeyushyadav&style=flat-square&color=00F5D4&label=profile+views" />
 
 </div>
 
