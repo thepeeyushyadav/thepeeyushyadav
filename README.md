@@ -1,155 +1,88 @@
-<h1 align="center">Hi 👋, I'm Piyush Pal</h1>
-<h3 align="center">AI & Full-Stack Engineer | Building Intelligent Software Systems</h3>
+<div align="center">
+  <a href="https://github.com/thepeeyushyadav">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Piyush+Pal+👋;AI+%26+Full-Stack+Engineer;Architecting+Autonomous+AI+Agents;Building+Scalable+SaaS+Platforms" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-Focused on developing scalable backend systems, full-stack web applications, and practical AI solutions.
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-• 💻 AI & Full-Stack Engineer passionate about building real-world software systems  
-• ⚙️ Experienced with **Java Backends, MERN Stack, and Machine Learning**  
-• 🤖 Currently exploring **Generative AI, NLP, and Agentic AI systems**  
-• 🚀 Interested in **AI-driven applications and distributed backend architectures**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="www.linkedin.com/in/piyush-pal-751067306">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/thepeeyushyadav">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://leetcode.com/u/LogicLuminarys/">
-<img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode">
-</a>
-
-<a href="mailto:thepeeyushyadav0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://www.instagram.com/thepeeyushyadav?igsh=dW9tYmp4czgya2hj">
-<img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram">
-</a>
-
-</p>
+  <p align="center">
+    <b>Transforming complex data into intelligent, scalable, and autonomous software systems.</b>
+  </p>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/thepeeyushyadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://leetcode.com/u/LogicLuminarys/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+    <a href="https://youtube.com/@ThinkCodeX"><img src="https://img.shields.io/badge/ThinkCodeX-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    <a href="mailto:thepeeyushyadav0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+### 🚀 **Executive Summary**
 
-### 💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-Backend-red)
-![Python](https://img.shields.io/badge/Python-AI-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Web-yellow)
+> 🧠 **AI/ML Focus:** Specializing in Generative AI, RAG, LLMs (Claude/Gemini/Groq), and Agentic frameworks.  
+> ⚙️ **Backend Engineering:** Building scalable microservices using Spring Boot, Node.js, and multi-tenant architectures.  
+> 🌐 **Full-Stack Vision:** Delivering end-to-end SaaS platforms with Next.js, React, and robust CI/CD pipelines.
 
 ---
 
-### ⚙️ Backend & Frameworks
+### 💻 **Technical Arsenal**
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-Microservices-brightgreen)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Express](https://img.shields.io/badge/Express.js-API-lightgrey)
+<div align="center">
+  
+  **Languages & AI Frameworks** <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,tensorflow,scikitlearn&theme=dark" alt="Languages & AI"/>
+  </a>
+  <br><br>
+  
+  **Backend & Frontend** <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nextjs,react,tailwind&theme=dark" alt="Web Dev"/>
+  </a>
+  <br><br>
 
----
+  **Databases, Cloud & DevOps** <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma,docker,aws,rabbitmq&theme=dark" alt="Cloud & DevOps"/>
+  </a>
 
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![Next.js](https://img.shields.io/badge/Next.js-FullStack-black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-Styling-cyan)
-
----
-
-### 🤖 AI / Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/MachineLearning-Modeling-orange)
-![Deep Learning](https://img.shields.io/badge/DeepLearning-NeuralNetworks-red)
-![NLP](https://img.shields.io/badge/NLP-LanguageModels-purple)
-![Generative AI](https://img.shields.io/badge/GenerativeAI-LLM-success)
-
----
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-blue)
+</div>
 
 ---
 
-### ⚙️ Tools & DevOps
+### 🛠️ **Featured Architecture & Projects**
 
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-red)
+| 🤖 **ALOA (Autonomous AI Agent)** | 🌐 **PYVRA (SaaS Platform)** |
+| :--- | :--- |
+| **Tech:** Python, LangChain, LangGraph, AWS Bedrock | **Tech:** Next.js, Prisma, MySQL, Razorpay, Clerk |
+| Architected an autonomous AI system with **10 intelligent modules** capable of executing complex system tasks without manual intervention. Built with a multi-provider fallback architecture ensuring zero downtime. | Developed a production-ready **Website Builder and Analytics Dashboard** featuring a multi-tenant architecture, role-based access control, and automated Vercel deployment pipelines. |
+| [🔗 View Project](#) | [🔗 View Project](#) |
 
----
-
-# 🚀 Featured Projects
-
-### 🔹 AI Fitness Microservices Platform
-
-• Spring Boot microservices architecture  
-• RabbitMQ messaging  
-• Keycloak authentication  
-• Gemini AI integration  
+| 🧬 **Tata iQ AI-Powered Analytics** | 🏋️ **AI Fitness Microservices** |
+| :--- | :--- |
+| **Tech:** GenAI Tools, Predictive Modeling, EDA | **Tech:** Spring Boot, Google Gemini AI, RabbitMQ |
+| Completed a GenAI-powered job simulation. Designed a predictive modeling framework for customer delinquency risk and an AI-driven collections strategy incorporating ethical AI principles. | Designed a cloud-native fitness ecosystem orchestrating personalized recommendations via **Docker**, **Eureka discovery**, and Keycloak OAuth2. |
+| [🔗 View Project](#) | [🔗 View Project](#) |
 
 ---
 
-### 🔹 LinkedIn Clone (MERN Stack)
+### 📊 **GitHub Metrics & Analytics**
 
-• Full-stack social networking platform  
-• Real-time messaging using Socket.io  
-• JWT authentication and profile management  
-• Live deployed application  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thepeeyushyadav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepeeyushyadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
 
----
+<br>
 
-### 🔹 Next Word Prediction using LSTM
-
-• NLP sequence prediction model  
-• TensorFlow / Keras deep learning pipeline  
-• Context-aware next-word generation  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepeeyushyadav&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thepeeyushyadav&show_icons=true&theme=tokyonight">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepeeyushyadav&layout=compact&theme=tokyonight">
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thepeeyushyadav&theme=tokyo-night">
-</p>
-
----
-
-# ⚡ Fun Fact
-
-💡 I enjoy building **intelligent systems where AI meets real software engineering.**
-
----
-
-# 👨‍💻 Author
-
-**Piyush Pal**  
-📍 Indore, Madhya Pradesh, India  
-📫 thepeeyushyadav0@gmail.com
+<div align="center">
+  <i>"Building intelligent systems where AI meets real software engineering."</i>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=100&section=footer" width="100%"/>
+</div>
