@@ -69,10 +69,12 @@ class PiyushPal:
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,rabbitmq,githubactions,prisma&theme=dark)](https://skillicons.dev)
 
+
 **Tools & Cloud**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,tailwind,vscode,idea,postman&theme=dark)](https://skillicons.dev)
 
+![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white) ![Webhook](https://img.shields.io/badge/Webhook-000000?style=flat-square&logo=webhook&logoColor=white)
 </div>
 
 <br/>
